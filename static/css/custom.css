@@ -1,0 +1,42 @@
+.food_corner{
+    background-image: url(../images/bg.jfif);
+    height: 100vh;
+    margin-top: 0.1rem;
+    background-size: cover;
+    position: relative;
+}
+
+.food_title{
+    color: whitesmoke;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.food_title p{
+    font-size: x-large;
+}
+
+.food_title h1{
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+/* Product section */
+.product{
+    width: 90%; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+
+.product_list_item{
+    float: left;
+    width: 30%;
+    margin-left: 1rem;
+}
+
+.product_heading{
+    text-align: center;
+}
