@@ -14,4 +14,5 @@ The main objective of the project is to manage the details of Food items, Catego
 •	*Customer details*: 	 To manage the customer details.
 
 <br>
+
 ![Home page](https://user-images.githubusercontent.com/62075811/124397983-ee3bd780-dd30-11eb-8f54-11afb3436f6d.png)
