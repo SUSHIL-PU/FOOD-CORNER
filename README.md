@@ -8,7 +8,7 @@ The main objective of the project is to manage the details of Food items, Catego
 
 
 ##  Modules of the system:
-•	*Food category management*: To manage the food category.
-•	*Food item management*:  To manage the food items under category
-•	*Order module*:   To manage the order details in database
+•	*Food category management*: To manage the food category. <br>
+•	*Food item management*:  To manage the food items under category. <br>
+•	*Order module*:   To manage the order details in database. <br>
 •	*Customer details*: 	 To manage the customer details.
