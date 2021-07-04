@@ -16,3 +16,5 @@ The main objective of the project is to manage the details of Food items, Catego
 <br>
 
 ![Home page](https://user-images.githubusercontent.com/62075811/124397983-ee3bd780-dd30-11eb-8f54-11afb3436f6d.png)
+![Screenshot (443)](https://user-images.githubusercontent.com/62075811/124398876-b4b99b00-dd35-11eb-8a08-175d115d630a.png)
+
